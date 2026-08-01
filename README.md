@@ -1,6 +1,6 @@
 # my-projects
-##### https://modsenfy-new.vercel.app/
-##### https://r-lab.vercel.app/
+##### Modsenfy https://modsenfy-new.vercel.app/
+##### InfoHub https://r-lab.vercel.app/
 ##### Plants https://d15nd.github.io/Plants/plants/
 ##### Shelter https://d15nd.github.io/Shelter/
 ##### Travel https://d15nd.github.io/travel/
